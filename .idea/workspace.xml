@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a53198-0683-4e49-80e5-3ebdbc728e23" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/BodyMassIndex.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/MassAndWeight.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/RomanNumerals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/RunningTheRace.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/SortedNames.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/isDateMagic.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/RestaurantSelector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/RestaurantSelector.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663683232782</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="First Commit">
+      <created>1663684228215</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663684228215</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

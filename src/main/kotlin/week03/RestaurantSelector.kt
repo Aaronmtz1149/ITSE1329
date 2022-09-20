@@ -7,10 +7,10 @@ fun main()
 {
     /*
     Joe’s Gourmet Burgers – Vegetarian: No, Vegan: No, Gluten-Free: No
-    Main Street Pizza Company – Vegetarian: Yes, Vegan: No, Gluten-Free: Yes
-    Corner Café – Vegetarian: Yes, Vegan: Yes, Gluten-Free: Yes
-    Mama’s Fine Italian – Vegetarian: Yes, Vegan: No, Gluten-Free: No
-    The Chef’s Kitchen – Vegetarian: Yes, Vegan: Yes, Gluten-Free: Yes
+    Main Street Pizza Com – Vegetarian: Yes, Vegan: No, Gluten-Free: Yes
+    Corner Café –         - Vegetarian: - Yes, Vegan: Yes, Gluten-Free: Yes
+    Mama’s Fine Italian   – Vegetarian: Yes, Vegan: No, Gluten-Free: No
+    The Chef’s Kitchen    – Vegetarian: Yes, Vegan: Yes, Gluten-Free: Yes
      */
     val YES = "YES"
     print("Is anyone in your party a vegetarian?")
@@ -24,13 +24,7 @@ fun main()
     gluten=gluten.toUpperCase()
     if(veg==YES)
     {
-        if(vegan==YES&&gluten==YES)
-        {
-            println("Corner Café\nThe Chef’s Kitchen")
-        }else(gluten!=YES&&vegan==YES)
-        {
 
-        }
     }
 
 }
