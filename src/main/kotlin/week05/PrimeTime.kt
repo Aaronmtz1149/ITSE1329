@@ -5,9 +5,18 @@ package week05
  * October 18, 2022
  */
 fun main(){
-    print("Enter an integer to check if it's prime >> ")
+    print("Enter a number >> ")
     var number= readln().toInt()
+    print("Enter a divisor >> ")
+    var divisor=readln().toInt()
+    if(isNumberDivisible(number,divisor)){
+        println("$number is divisible by $divisor")
+    }else println("$number is not divisible by $divisor")
+
     isPrime(number)
+}
+fun isNumberDivisible(number:Int, divisor:Int):Boolean{
+    return number%divisor==0
 }
 fun isDiv(number:Int):Boolean{
     var bool= false
