@@ -8,7 +8,7 @@ package week05
 fun main(){
 
     fallingDistance(1)
-    fallingForSeconds(8)
+    fallingForSeconds(10)
 }
 fun fallingDistance(seconds:Int){
     val g:Double=9.8
