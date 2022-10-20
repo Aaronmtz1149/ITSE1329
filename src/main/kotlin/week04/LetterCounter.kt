@@ -3,7 +3,7 @@ fun main()
     print("Enter a String >> ")
     var word = readln()
     word = word.toUpperCase()
-    print("Enter a cahracter you want to count >> ")
+    print("Enter a character you want to count >> ")
     var letter = readln()
     letter = letter.toUpperCase()
     var count: Int = 0

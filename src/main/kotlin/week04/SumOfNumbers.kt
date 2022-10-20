@@ -6,9 +6,9 @@ fun main()
     var total: Int = 0
     while(counter<=number)
     {
+
         total+=counter
         counter++
     }
     println(total)
-//testing
 }
