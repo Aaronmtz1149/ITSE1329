@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a53198-0683-4e49-80e5-3ebdbc728e23" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/rockPaperScissors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/stockProfit.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666187940055</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="First Commit">
+      <created>1666231662665</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1666231662665</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
