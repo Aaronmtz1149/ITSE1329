@@ -29,6 +29,7 @@ fun main()
         Y N Y
      */
     val YES = "YES"
+    println("Type answer \"yes\" or \"no\"")
     print("Is anyone in your party a vegetarian?")
     var veg = readln()
     veg=veg.toUpperCase()

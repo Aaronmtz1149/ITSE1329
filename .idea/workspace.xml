@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6a53198-0683-4e49-80e5-3ebdbc728e23" name="Changes" comment="First Commit" />
+    <list default="true" id="b6a53198-0683-4e49-80e5-3ebdbc728e23" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/RestaurantSelector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/RestaurantSelector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/Test" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -296,7 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666279949738</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="First Commit">
+      <created>1666279977191</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1666279977191</updated>
+    </task>
+    <task id="LOCAL-00037" summary="First Commit">
+      <created>1666280000833</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1666280000833</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
