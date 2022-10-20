@@ -8,6 +8,7 @@ package week05
 fun main(){
 
     fallingDistance(1)
+    println()
     fallingForSeconds(10)
 }
 fun fallingDistance(seconds:Int){
