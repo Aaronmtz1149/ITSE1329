@@ -1,7 +1,7 @@
 package week05
 
 /**
- * Aaron Martinez
+ * Aaron M.
  * Assignment 05.3
  * October 18, 2022
  */
